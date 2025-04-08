@@ -1,5 +1,4 @@
-# Coding-Exercise-1
+# Coding-Exercise-3
 Template repository containing the starter files and project setup
 
-I make a change here.
-Another change.
+Alora's Coding Exercise 3 is post here.
